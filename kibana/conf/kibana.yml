@@ -1,0 +1,2 @@
+xpack.security.enabled: true
+elasticsearch.url: "http://elasticsearch-lab.apps.10.2.2.2.xip.io:80"
